@@ -1,0 +1,7 @@
+- Visualization dạng Card: Tổng hợp những thông tin quan trọng, khái quát nhất
+- Visualization dạng Line and stacked column chart: hiến thị sự thay đổi về số lượt xem và số người xem quảng cáo qua từng ngày trong giai đoạn, phân biệt được sự khác nhau của 2 chỉ số này
+- Visualization dạng Scatter chart: hiển thị số lượt xem quảng cáo của 15 quốc gia có số lượt xem cao nhất, so sánh số lượng người dùng xem quảng cáo giữa các quốc gia đó
+- Visualization dạng Data bar KPI: theo dõi các chỉ số phần trăm (tỷ lệ kết nối thành công, tỷ lệ quảng cáo thành công, tỷ lệ xem lại quảng cáo) và so sánh với KPI đề ra (hiện đề xuất KPI = 80%)
+- Visualization dạng PayPal KPI donut chart và Tornado 2.1.0: số lượt xem quảng cáo theo các yếu tố liên quan đến thiết bị (hãng điện thoại, hệ điều hành, nguồn cài đặt), do hệ điều hành iOS chỉ có một đại diện là iPhone và tỷ trọng Android đến > 99% nên chỉ tập trung khai thác Android
+- Visualization dạng PayPal KPI donut chart và Clustered bar chart: số lượt xem quảng cáo theo các yếu tố liên quan đến tính chất của quảng cáo (loại quảng cáo, vị trí hiển thị), do quảng cáo loại _force_ads chỉ có một vị trí là end_game nên tập trung khai thác quảng cáo loại _ads_reward
+- Visualization dạng Pie chart: so sánh tỷ trọng số người dùng xem quảng cáo giữa các khu vực trên thế giới
